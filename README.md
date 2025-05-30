@@ -1,2 +1,2 @@
 # settings
-di main branch
+ini adalah berberapa settingan yg sy gunakan di vs code
