@@ -1,2 +1,2 @@
 # settings
-ini adalah berberapa settingan yg sy gunakan di vs code
+ini adalah berberapa settingan yg saya gunakan di vs code
